@@ -6,40 +6,40 @@ function HomePage() {
     <div className="home-container">
       <section className="hero-section">
         <h1>Welcome to D&V Construction</h1>
-        <p>Your dream project, built with integrity and excellence.</p>
+        <p>Your dream home improvement projects, realized with integrity and excellence.</p>
       </section>
       
       <section className="services-overview">
-        <h2>Our Services</h2>
-        <p>At D&V Construction, we offer a comprehensive range of services tailored to bring your vision to life. From initial design to the final touches, our dedicated team ensures each project is completed to the highest standard.</p>
+        <h2>Our Home Improvement Services</h2>
+        <p>At D&V Construction, we specialize in transforming your home with a wide array of improvement services. Whether it's a minor update or a major renovation, our team is dedicated to bringing your vision to life with precision and flair.</p>
         <div className="service-list">
           <div className="service-item">
-            <h3>Residential Building</h3>
-            <p>Custom home construction, renovations, and extensions that transform living spaces.</p>
+            <h3>Decks</h3>
+            <p>Expand your living space with a custom-built deck perfect for entertaining or relaxation.</p>
           </div>
           <div className="service-item">
-            <h3>Commercial Projects</h3>
-            <p>State-of-the-art commercial facilities, office buildings, and business centers.</p>
+            <h3>Siding</h3>
+            <p>Protect and beautify your home's exterior with our durable and aesthetic siding options.</p>
           </div>
           <div className="service-item">
-            <h3>Interior Design</h3>
-            <p>Stunning interior solutions that blend aesthetics with functionality.</p>
+            <h3>Kitchens</h3>
+            <p>Revitalize the heart of your home with a kitchen remodel designed for both function and style.</p>
           </div>
           <div className="service-item">
-            <h3>Landscape Architecture</h3>
-            <p>Beautifully designed outdoor spaces that complement your structure.</p>
+            <h3>Bathrooms</h3>
+            <p>Turn your bathroom into a sanctuary with our custom renovation services, from simple upgrades to complete overhauls.</p>
           </div>
         </div>
       </section>
       
       <section className="about-us">
         <h2>About D&V Construction</h2>
-        <p>Founded in Boston, D&V Construction has been transforming the local skyline for over 25 years. As a family-owned business, we take pride in our reputation for delivering exceptional quality and building lasting relationships with our clients. Our team of skilled professionals is committed to bringing your projects to life with precision and care.</p>
+        <p>Founded in Boston, D&V Construction has been enhancing homes across the region for over 25 years. As a family-owned business, we're known for our commitment to quality and our dedication to customer satisfaction. Our team of experts is ready to make your home improvement dreams a reality.</p>
       </section>
       
       <section className="call-to-action">
-        <h2>Start Your Project Today</h2>
-        <p>Ready to begin your construction journey? Contact us for a consultation and let's lay the foundation for your future.</p>
+        <h2>Start Your Home Improvement Project Today</h2>
+        <p>Are you ready to improve your home? Reach out to us for a consultation and let's create the space you've always wanted.</p>
         <button>Contact Us</button>
       </section>
     </div>
@@ -47,4 +47,3 @@ function HomePage() {
 }
 
 export default HomePage;
-

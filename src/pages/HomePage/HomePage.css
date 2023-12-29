@@ -58,3 +58,12 @@
 .hero-section p {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
+
+
+
+@media (max-width: 768px) { /* Adjust the max-width as needed for your breakpoint */
+  .service-item {
+    width: 100%; /* Makes each service item full width on smaller screens */
+    margin-bottom: 1rem;
+  }
+}
