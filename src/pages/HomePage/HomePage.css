@@ -54,3 +54,7 @@
     background-color: #cc8400;
   }
   
+  .hero-section h1,
+.hero-section p {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
